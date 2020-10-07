@@ -18,4 +18,4 @@ AUX_SOURCE_DIRECTORY(src SOURCES)
 
 add_library(ocv_tracker ${SOURCES})
 
-install(TARGETS ocv_tracker DESTINATION ${CMAKE_CURRENT_SOURCE_DIR}/lib/)
+install(TARGETS ocv_tracker DESTINATION $ENV{HOME}/lib/)
