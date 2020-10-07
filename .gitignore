@@ -1,0 +1,12 @@
+# ===========
+**/.DS_Store
+
+**/.vscode
+
+**/bin
+**/build
+**/lib
+
+*.log
+
+
